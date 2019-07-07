@@ -1,0 +1,5 @@
+[book]
+authors = ["rithy thul"]
+multilingual = false
+src = "src"
+title = "Essay for brain ticks"
