@@ -1,6 +1,9 @@
 ### KOOMPI Brand
 digial info and contact info
 
+### About KOOMPI
+We is a technology company that utilizes Linux and Open Source ecosystem of software to build tools for the next generation of innovators.
+
 ### Mission & Vision
 
 Our mission
@@ -29,6 +32,7 @@ We are building a line of tools bases on open source and free software principle
 
 One of the first solutions we offered was an affordable notebook computer. Pre-installed with our own customed made Linux-based Operating System and shipped with all open source applications as an alternative to proprietary software, yet stay compatible. Through that first offers several mores come into puzzled. 
 
+### KOOMPI Products and services
 
 1. KOOMPI Notebook, an open source linux-based notebook. We call the operating system KOOMPI OS. 
 
@@ -42,14 +46,20 @@ Though, the notebook are operated with multipurpose operating system. Thus, the 
 
 4. KOOMPI Academy is a service platform that host curated learning contents from the web and make easily accessible in one platform. The earning materials are a hand-picked collection of the best teaching and learning presentations gathered from the internet and organized into structured lesson plans.
 
-5. KOOMPI Educators a team of passionate technical supporters that stand-by at schools to help and transfer knowledge from KOOMPI to teachers and students to take advantage of the digital age. 
+5. KOOMPI Educators is a team of passionate technical supporters that stand-by at school labs to help guide and transfer knowledge from KOOMPI to teachers and students to take advantage of the digital tools and services. 
 
-### Birth of KOOMPI
+### KOOMPI Initiatives
 
+KOOMPI One-School-One-Lab
 
+KOOMPI One-Student-One-Notebook
 
 ### Timing --> Why now?
+Internet has leveling the global playing field through information. Though so far, only those who have access to computer could take advantage of the internet and joined the club. This was only possible for develop nations or community, in the last 20-30 years. 
 
+Smartphone is great at delivering information to far distant, but hard for potential engineers and innovators to take information they recieved make sense of it, recreate and innovate further. Both of internet infrastructure are powered by Open Source and Linux. 
+
+On the other hand, notebook computer has become much more affordable thanks to the abundance of hardwares
 
 ### Traction
 
