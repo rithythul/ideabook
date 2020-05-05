@@ -8,19 +8,19 @@ KOOMPI enable digital literacy for young people through Linux and open source so
 
 ### Mission & Vision
 
-Our mission
+#### Our mission
 
 Make tools for the next generation become innovators.
 
-Our vision
+#### Our vision
 
 Tools that empowers more people to become their own innovator and to help democritize our digital future.   
 
-Our value
+#### Our value
 
 We care for our community, users, teamates' well-being and our future of planet as awhole
 
-Our culture
+#### Our culture
 
 Delivering promise and share happiness
 
