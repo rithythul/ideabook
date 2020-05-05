@@ -4,10 +4,12 @@ digial info and contact info
 ### About KOOMPI
 We is a technology company that utilizes Linux and Open Source ecosystem of software to build tools for the next generation of innovators.
 
+KOOMPI enable digital literacy for young people through Linux and open source softare ecosystem with afforable notebook and devices as tools for everyone to take part of the digital evolution of our time.   
+
 ### Mission & Vision
 
 Our mission
-Make tools for the next generation innovators. 
+Make tools for the next generation become innovators.
 
 Our vision
 Tools that empowers more people to become their own innovator and to help democritize our digital future.   
@@ -17,8 +19,6 @@ We care for our community, users, teamates' well-being and our future of planet 
 
 Our culture
 Delivering promise and share happiness
-
-
 
 ### Problem
 
@@ -62,27 +62,44 @@ Smartphone is great at delivering information to far distant, but hard for poten
 On the other hand, notebook computer has become much more affordable thanks to the abundance of hardwares
 
 ### Traction
-
+We launched to public on October 2018, since then we have sold around 1300 KOOMPI and lease 280 KOOMPI to school partners for education purposes. 
 
 ### Target Market
-
+Our primary users are youth in school, mostly secondary and high schools students. Though, since it's so good, many other users who want to save cost on hardware and want to experiment with open source could still use it as well. In fact, since our launch, more than 50% of our users are general public. 
 
 ### Market size
+There are more than 1.57 billion students globally, according to data from UNESCO. While Cambodia has more than 3 millions students are in K-12. Most of them will need a notebook computer to learn, even they might already have smartphone, we believe. Especially, if they learn computer related subjects such as computer programming.
 
+Since the world is changing to digital, there will be a growing need of jobs in the computer programming and computer related skills, much more than an office applications and normal office jobs.
 
 ### Current Focus Market
-
+Our current market is Cambodia, while we test our notebook device and some application. We are also open to test market outside of Cambodia that has similarity to Cambodia market such as South East Asia, South Asia, Africa. 
 
 ### Cometitors 
+Our competitors are devices makers such as Acer, Asus and other device maker which base on lacacy Microsoft OS. On top of that, there are also several others open source base notebook providers globally. 
 
+We consider them as part of the force to empowered the next generation of innovators. So in away, we are collaborative for commond goal. Plush the market is so huge, so there are a lot of room for everyone to play.
 
 ### Competitive Advantages
+Almost all of our competitors are either only make the hardware or only make the operating system. We do both, which make it easier to make both hardware and software compatible as well as keep the price low. 
 
-
-### Competitor Approach
-
+Plus, we don't just provide devices, we are also provide educators to get users onboard. Especially, users in the educational institutions. We also providing other learning tools and open our OS to developers to build applications to reach their users via our community and vise versa. 
 
 ### Future Roadmap
+
+By 20 years plan is to provides 3 types of notebook devices.
+- e11 which is 11.6 inch display, design for younger students mostly secondary schools
+- e13 which is 13.3 inch display, design for high school and freshmen college students
+- b14 which is 14.1 inch display, design for business proffesional and developer
+
+Plus a few accesseries
+- Solar charge and power storage for mobility
+
+Applications
+- User-friendly open source app store, inspired by apple store
+- KOOMPI Academy learning without internet
+- KOOMPI Mesh Network to serve and extend internet to remote areas
+- 
 
 
 ### Contact
