@@ -35,19 +35,19 @@ With the advent of dispersed work and learning, access to information means any 
 We provide the hardware, software, personal advice and service needed for off-site learning and productivity issues related to both classroom and office.
 
 
-
-
-
-
-
 Our product line
+
+0. KOOMPI Notebook at present day
+E11 is a low-cost high power educational notebook computer design for young students main secondary and high school.
+
+E13 is an education notebook computer as well design for high school and college freshmen. Those who could afford a higher cost. 
 
 1. KOOMPI Solaron
 
 Solaron
 is a solar-powered notebook case
 for remote, off-grid users
-designed to work together with the KOOMPI 4G notebook
+designed to work together with the KOOMPI Wifi and KOOMPI 4G notebook
 
 
 2. KOOMPI Wifi
@@ -64,9 +64,14 @@ is a team of passionate technical supporters that stand-by at school labs to hel
 
 ### KOOMPI Initiatives
 
-KOOMPI One-School-One-Lab
+At the moment we only pilot in Cambodia. 
 
-KOOMPI One-Student-One-Notebook
+KOOMPI One-School-One-Lab
+We want to see every school install a Linux Lab. We believe Linux, of any kind, would empowered many students to be curious and begin self-directed learning. As an example, everyone at KOOMPI are self-tought with some guiden from peers.  
+
+KOOMPI One-Student-One-Notebook (OSON)
+A mission to provide student a device of their own, since learning computer require investing time with computer. OSON hope to work with partners to make this dream a reality, so children from all corner of the planet could share their enginoity to help us solve the unknown problem to come.
+
 
 ### Timing --> Why now?
 Internet has leveling the global playing field through information. Though so far, only those who have access to computer could take advantage of the internet and joined the club. This was only possible for develop nations or community, in the last 20-30 years.
@@ -101,7 +106,7 @@ Plus, we don't just provide devices, we are also provide educators to get users 
 
 ### Future Roadmap
 
-By 20 years plan is to provides 3 types of notebook devices.
+From 2020-2022 we provide 3 types of notebook devices.
 - e11 which is 11.6 inch display, design for younger students mostly secondary schools
 - e13 which is 13.3 inch display, design for high school and freshmen college students
 - b14 which is 14.1 inch display, design for business proffesional and developer
