@@ -103,7 +103,11 @@ Applications
 - User-friendly open source app store, inspired by apple store
 - KOOMPI Academy learning without internet
 - KOOMPI Mesh Network to serve and extend internet to remote areas
-- 
+
+Design and Manufacture electronic parts such as
+- pcba 
+- RISC-V based cpu for other model of computing devices
+- and, assembling other parts
 
 
 ### Contact
