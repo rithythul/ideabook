@@ -1,56 +1,66 @@
-### KOOMPI Brand
-digial info and contact info
-
 ### About KOOMPI
-We is a technology company that utilizes Linux and Open Source ecosystem of software to build tools for the next generation of innovators.
 
-KOOMPI enable digital literacy for young people through Linux and open source softare ecosystem with afforable notebook and devices as tools for everyone to take part of the digital evolution of our time.   
+KOOMPI is a technology development company based in Phnom Penh, Cambodia that designs and builds solutions-oriented productivity tools for next-generation doers and innovators.
 
-### Mission & Vision
+We want to contribute to technology's role in serving to make the world a better place for everyone.
 
-#### Our mission
+Digital networking technology is the glue that holds us all together, and without it, our modern world would not function, setting us all back two centuries.
 
-Make tools for the next generation become innovators.
+We believe it is our priviledge to provide the best tools for our environment, so our youth can learn and grow to create an even better world for the next generation.
 
-#### Our vision
+Our learning and productivity tools are value-added products, built upon the acclaimed Linux operating system, and include a wide variety of custom applications tailored to meet the needs of students, business managers, and employees.
 
-Tools that empowers more people to become their own innovator and to help democritize our digital future.   
+KOOMPI is focused on empowering our youth and workforce both locally and globally, in developed and undeveloped nations, through the design, development, implementation, provision and support of our full line of low-cost, full-power, off-grid open-source notebook and netbook solutions.
 
-#### Our value
+For an active, on-the-go workstation, where the power of the sun alone can keep all your devices powered up and ready for action, our notebooks are designed to meet the needs of both new learners and power users, whether at home, in the office, or off-grid out in the field.
 
-We care for our community, users, teamates' well-being and our future of planet as awhole
+Our line of thin, sleek, and elegant notebooks, designed and assembled in Cambodia, provide a compact self-contained work and learning environment.
 
-#### Our culture
+Whether learning alone at home, or networked within a virtual classroom, our line of products provide enough power and flexibility for the professional.
 
-Delivering promise and share happiness
+In an age of social distancing, work and learn at home students and employees, we see homebound education and work opportunities becoming the world's fastest growing service industry.
 
-### Problem
+KOOMPI works to fill the needs of people now required to remain at home, whose lives in the classroom and at the office had been transformed overnight.
 
-Technology usage and internet users are growing rapidly across the globe, yet the buttom billions are still inaccessible. Even if they do have access to internet, they could only be a normal users, due to the tools they use are build for industries to take advantage of their attention economic both software and hardware. Thus, they cannot advance their learning and become a valuable contributor to the technology revolution of our age. 
+Technology empowers the individual, and the digital divide is the great divide between the aspiring children of the world who have internet technology, and those who do not.
 
-There are more than 3 billions people throughout the world need to access to the internet in the next decade to come. We must provide them the right tools to use and environment to learn to prepare themselves. 
+Our value-added productivity tools serve to bridge across this digital divide, which denies opportunity and has social costs.
 
-### Solution
+Even as satellite signals beam down internet freely, many young, bright, and deserving children remain without access to modern learning tools.
 
-We are building a line of tools bases on open source and free software principle for both software application and hardware device. The tools we hope will help our generation and the next to speed up their work and learning. So they can help shape our evolution a whole forward in the positive direction.
+With widepread internet and mesh networks, our products offer the knowledge and wonder of vast libraries to even the hardest to reach regions of the world.
 
-One of the first solutions we offered was an affordable notebook computer. Pre-installed with our own customed made Linux-based Operating System and shipped with all open source applications as an alternative to proprietary software, yet stay compatible. Through that first offers several mores come into puzzled. 
+With the advent of dispersed work and learning, access to information means any bright young person, however remote, can grow, learn, and work among technology professionals, securing employment and wages through the digital economy.
 
-### KOOMPI Products and services
+We provide the hardware, software, personal advice and service needed for off-site learning and productivity issues related to both classroom and office.
 
-1. KOOMPI Notebook, an open source linux-based notebook. We call the operating system KOOMPI OS. 
 
-The notebook comes in a few edition; the first one is 11 inch for young students, 13 inch for general users after high school, 14 inch for professional users who need more speed for their work. 
 
-Though, the notebook are operated with multipurpose operating system. Thus, the limit is only the users' imagination. 
 
-2. KOOMPI Solaron, a solar mobile charging notebook case, designed for remote off-grid users. Come long with KOOMPI 4G notebook. 
 
-3. KOOMPI Wifi is a local mesh network designed to extend internet from one central location, usually connected via 4G network, to nearby location. Making internet more accessible to the last mile users.
 
-4. KOOMPI Academy is a service platform that host curated learning contents from the web and make easily accessible in one platform. The earning materials are a hand-picked collection of the best teaching and learning presentations gathered from the internet and organized into structured lesson plans.
 
-5. KOOMPI Educators is a team of passionate technical supporters that stand-by at school labs to help guide and transfer knowledge from KOOMPI to teachers and students to take advantage of the digital tools and services. 
+Our product line
+
+1. KOOMPI Solaron
+
+Solaron
+is a solar-powered notebook case
+for remote, off-grid users
+designed to work together with the KOOMPI 4G notebook
+
+
+2. KOOMPI Wifi
+
+is a local mesh network designed to extend internet from one central location, usually connected via 4G network, to nearby location. Making internet more accessible to the last mile users.
+
+3. KOOMPI Academy
+
+is a service platform that host curated learning contents from the web and make easily accessible in one platform. The earning materials are a hand-picked collection of the best teaching and learning presentations gathered from the internet and organized into structured lesson plans.
+
+4. KOOMPI Educators
+
+is a team of passionate technical supporters that stand-by at school labs to help guide and transfer knowledge from KOOMPI to teachers and students to take advantage of the digital tools and services.
 
 ### KOOMPI Initiatives
 
@@ -59,17 +69,17 @@ KOOMPI One-School-One-Lab
 KOOMPI One-Student-One-Notebook
 
 ### Timing --> Why now?
-Internet has leveling the global playing field through information. Though so far, only those who have access to computer could take advantage of the internet and joined the club. This was only possible for develop nations or community, in the last 20-30 years. 
+Internet has leveling the global playing field through information. Though so far, only those who have access to computer could take advantage of the internet and joined the club. This was only possible for develop nations or community, in the last 20-30 years.
 
-Smartphone is great at delivering information to far distant, but hard for potential engineers and innovators to take information they recieved make sense of it, recreate and innovate further. Both of internet infrastructure are powered by Open Source and Linux. 
+Smartphone is great at delivering information to far distant, but hard for potential engineers and innovators to take information they recieved make sense of it, recreate and innovate further. Both of internet infrastructure are powered by Open Source and Linux.
 
 On the other hand, notebook computer has become much more affordable thanks to the abundance of hardwares
 
 ### Traction
-We launched to public on October 2018, since then we have sold around 1300 KOOMPI and lease 280 KOOMPI to school partners for education purposes. 
+We launched to public on October 2018, since then we have sold around 1300 KOOMPI and lease 280 KOOMPI to school partners for education purposes.
 
 ### Target Market
-Our primary users are youth in school, mostly secondary and high schools students. Though, since it's so good, many other users who want to save cost on hardware and want to experiment with open source could still use it as well. In fact, since our launch, more than 50% of our users are general public. 
+Our primary users are youth in school, mostly secondary and high schools students. Though, since it's so good, many other users who want to save cost on hardware and want to experiment with open source could still use it as well. In fact, since our launch, more than 50% of our users are general public.
 
 ### Market size
 There are more than 1.57 billion students globally, according to data from UNESCO. While Cambodia has more than 3 millions students are in K-12. Most of them will need a notebook computer to learn, even they might already have smartphone, we believe. Especially, if they learn computer related subjects such as computer programming.
@@ -77,17 +87,17 @@ There are more than 1.57 billion students globally, according to data from UNESC
 Since the world is changing to digital, there will be a growing need of jobs in the computer programming and computer related skills, much more than an office applications and normal office jobs.
 
 ### Current Focus Market
-Our current market is Cambodia, while we test our notebook device and some application. We are also open to test market outside of Cambodia that has similarity to Cambodia market such as South East Asia, South Asia, Africa. 
+Our current market is Cambodia, while we test our notebook device and some application. We are also open to test market outside of Cambodia that has similarity to Cambodia market such as South East Asia, South Asia, Africa.
 
-### Cometitors 
-Our competitors are devices makers such as Acer, Asus and other device maker which base on lacacy Microsoft OS. On top of that, there are also several others open source base notebook providers globally. 
+### Cometitors
+Our competitors are devices makers such as Acer, Asus and other device maker which base on lacacy Microsoft OS. On top of that, there are also several others open source base notebook providers globally.
 
 We consider them as part of the force to empowered the next generation of innovators. So in away, we are collaborative for commond goal. Plush the market is so huge, so there are a lot of room for everyone to play.
 
 ### Competitive Advantages
-Almost all of our competitors are either only make the hardware or only make the operating system. We do both, which make it easier to make both hardware and software compatible as well as keep the price low. 
+Almost all of our competitors are either only make the hardware or only make the operating system. We do both, which make it easier to make both hardware and software compatible as well as keep the price low.
 
-Plus, we don't just provide devices, we are also provide educators to get users onboard. Especially, users in the educational institutions. We also providing other learning tools and open our OS to developers to build applications to reach their users via our community and vise versa. 
+Plus, we don't just provide devices, we are also provide educators to get users onboard. Especially, users in the educational institutions. We also providing other learning tools and open our OS to developers to build applications to reach their users via our community and vise versa.
 
 ### Future Roadmap
 
@@ -105,7 +115,7 @@ Applications
 - KOOMPI Mesh Network to serve and extend internet to remote areas
 
 Design and Manufacture electronic parts such as
-- pcba 
+- pcba
 - RISC-V based cpu for other model of computing devices
 - and, assembling other parts
 
