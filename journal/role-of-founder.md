@@ -16,6 +16,8 @@ A strategic plan is a specific and detailed plan of action, when implemented eff
 
 Once a vision and strategic plan is formulated, effective communication is the key ingredient for success of implementation.
 
+This 
+
 # Building a great team
 
 Selecting the right people for team building is more about mindset, a shared vision, and a dynamic willingness to learn new skills and viewpoints.
