@@ -6,6 +6,14 @@ _Our Mission is to build tools for and provide resources for the next generation
 
 _Our Vision to unlock our fellow human being’s unlimited capacity for self-directed learning through encouraging curiosity, flexibility, and creative imagination._
 
+# Principle
+- __Do the damn hard things__: we don't do it, because it's easy. We do it because it's hard.
+- __Embrace Do it yourself__ (DIY): 
+- __Be organized__: most engineers accept that engineer table must be messy, we say it must be organized as well as everything else. 
+- __Stay focused & believe__: 
+- __Attention to details__:
+- __Endure the I'mpossible mission__:
+
 # Global Opportunities, yet to start locally
 
 _Since the advance of the internet and smartphone, the number of PC shipped has been a narrow grow. Nevertheless, it's still shipped a fairly good amount and it will contrinue to need because smartphone apps and other platform need notebooks or tablet PCs to build their apps. Especially, the device that run users friendly linux-base operating system_ 
@@ -52,7 +60,7 @@ Without talking about any other indirect outcome
 - KOOMPI b15 4G
 - KOOMPI Mobile
 - KOOMPI SBC
-- KOOMPI RISC (CPUP)
+- KOOMPI RISC-V (CPUP)
 - KOOMPI Solar Charge
 
 _Note_: __e__ stands for education, __b__ stands for business
@@ -71,4 +79,7 @@ _Note_: __e__ stands for education, __b__ stands for business
 ## Community Jobs
 With One School One Lab, for every lab the deploy KOOMPI OS bases Linux Lab, we will have one KOOMPI educator standby at the school partner, either covered by KOOMPI, volunteers or charity. The goal is to trainsfer knowledge to local teachers and students for the school partners. This will create at least 4,000 jobs in the next 5 to 7 years. 
 
-## Direct & Higher Skill
+## Engineering & High Tech Skills
+The high demand coming in, in the next few years, we project to have a local assembling house in Phnom Penh before 2025 and start making our own PCBA and other single board computer for other learning and small innovation purposes.
+
+Start making our own RISC-V base CPU to prepare for KOOMPI Singularity OS. And the world goes on!
