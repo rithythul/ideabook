@@ -10,9 +10,10 @@ _Our Vision to unlock our fellow human being’s unlimited capacity for self-dir
 - __Do the hard things__: we don't do it, because it's easy. We do it because it's hard.
 - __Embrace Do it yourself__ (DIY): 
 - __Be organized__: most engineers accept that engineer table must be messy, we say it must be organized as well as everything else. 
-- __Stay focused & believe__: 
+- __Stay focused__:
+- __Stay the course__:
 - __Attention to details__:
-- __Endure the I'mpossible mission__:
+- __Endure the Impossible mission__: To I'mpossible possible 
 
 # Global Opportunities, yet to start locally
 
