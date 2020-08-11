@@ -28,10 +28,11 @@ Without talking about any other indirect outcome
 
 # What we do
 
-## Software 
-- KOOMPI OS
+## Software & Platform
 
-- KOOMPI Academy, a self-directed learning platform that empowers people to 
+- KOOMPI OS, a multipurpose operating system based on linux kernel that aim to bring the best of open source to the next 3 billions that will come online in the next decade. 
+
+- KOOMPI Academy, a self-directed learning platform that empowers people to learn and teach with remotely.
 
 - KOOMPI Wifi, a local wifi mesh network that provide internet access to schools partners and villages nearby with local cache
 
@@ -44,12 +45,30 @@ Without talking about any other indirect outcome
 - KOOMPI Singularity, an OS the work simultanously in all devices using microkernel system
 
 ## Hardware
+- KOOMPI e11
+- KOOMPI e12 4G
+- KOOMPI e13
+- KOOMPI b15
+- KOOMPI b15 4G
+- KOOMPI Mobile
+- KOOMPI SBC
+- KOOMPI RISC (CPUP)
+- KOOMPI Solar Charge
 
-## Platform
+_Note_: __e__ stands for education, __b__ stands for business
 
 ## Initiative
+- __One Notebook One Student__: we hopes to initiate this OSON program by cooperating with partners to make this dream becomes reality, since learning computer requires plenty of effort and time with computer. Therefore, children from all corner of the planet could share their ingenuity to help us solve the unknown problem to come in the future.
 
-# Factory & Assembling
+- __One School One Lab__: We believe Linux, of any kind, would empowered many students to be curious and begin self-directed learning. For an example, everyone at KOOMPI are self-guided learning with some guidance from their peers, mentor, and the internet vast resources.
+
+- __Internet for Everyone__: will use KOOMPI wifi and peer-to-peer achitecture to allow local internet and cached to make the internet low cost and more accessible to remote villages. Helping to bring more people online with better and more decentralized and democratize Internet. 
+
+
 
 # Jobs 
 
+## Community Jobs
+With One School One Lab, for every lab the deploy KOOMPI OS bases Linux Lab, we will have one KOOMPI educator standby at the school partner, either covered by KOOMPI, volunteers or charity. The goal is to trainsfer knowledge to local teachers and students for the school partners. This will create at least 4,000 jobs in the next 5 to 7 years. 
+
+## Direct & Higher Skill
