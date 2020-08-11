@@ -1,4 +1,4 @@
-# About
+# About KOOMPI
 
 KOOMPI is a technology development company based in Phnom Penh, Cambodia that designs and builds solutions-oriented productivity tools for next-generation doers and innovators.
 
