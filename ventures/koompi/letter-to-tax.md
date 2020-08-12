@@ -74,7 +74,7 @@ _Note_: __E__ stands for education, __B__ stands for business
 
 - __Internet for Everyone__: KOOMPI wifi will be used in peer-to-peer achitecture to allow local internet and cache, make the internet low-cost and more accessible to remote villages. This project will bring more people online with better, more decentralized, and democratized Internet connection. 
 
-# Jobs x
+# Jobs
 
 ## Community Jobs
 In One School One Lab, every deployed KOOMPI-OS basesd Linux Lab, we will have one KOOMPI educator standby at the partnered school, financially covered by KOOMPI, volunteers, sponsors, or charity. The goal is to transfer knowledge to local teachers and students for the schools. This will create at least 4,000 jobs in the next 5 to 7 years. 
